@@ -1,2 +1,2 @@
 Hi Durga How are you
- durga.txt this is dev;;
+ durga.txt this is dev I updated for development;
